@@ -1,12 +1,14 @@
-# Your Project's Name
+# Tourism Website
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+/*One or two paragraphs providing an overview of your project. Tell us about your project.*/
+Our project is to create a tourism website featuring 3 countries, Singapore, Japan and Korea. You will be able to see the details about these 3 countries, such as their attractions, nearby hotels and will include some gifts that can be won through minigames featured on the website upon purchasing a hotel room from the website. You will also be able to log in to have a personal account which would be used to keep track of your stay and eligibility to play the minigames, it will also be the primary way to pay for the stay.
 
-Essentially, this part is your sales pitch.
+*/Essentially, this part is your sales pitch.*/
  
 ## Design Process
  
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+/*Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.*/
+Our main target for this website is anyone who is interested in travelling to these countries or people who live in those countries and want to gain deeper insight into what their own country has to offer.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a user type, I want to perform an action, so that I can achieve a goal.

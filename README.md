@@ -11,10 +11,11 @@ Our project is to create a tourism website featuring 3 countries, Singapore, Jap
 /*Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.*/
 Our main target for this website is anyone who is interested in travelling to these countries or people who live in those countries and want to gain deeper insight into what their own country has to offer.
 
-/*In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:*/
-/*-As a user type, I want to perform an action, so that I can achieve a goal.*/
+/*In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+-As a user type, I want to perform an action, so that I can achieve a goal.*/
 
 As a user looking to travel overseas to explore other countries, I would like to be able to view what the countries have to offer when I decide to visit them, so that I can have a better idea of what to expect and make a better judgement on what to do when visiting them.
+
 As a user curious about my own country, I would like to be able to view what my own country has that would be interesting for a local like me, so that I can visit those places of interests or do those activities during my free time, so that I can better understand my own country and be able to find places I may not have seen or visited before.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 

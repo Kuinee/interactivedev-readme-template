@@ -16,7 +16,7 @@ Our main target for this website is anyone who is interested in travelling to th
 
 As a user looking to travel overseas to explore other countries, I would like to be able to view what the countries have to offer when I decide to visit them, so that I can have a better idea of what to expect and make a better judgement on what to do when visiting them.
 
-As a user curious about my own country, I would like to be able to view what my own country has that would be interesting for a local like me, so that I can visit those places of interests or do those activities during my free time, so that I can better understand my own country and be able to find places I may not have seen or visited before.
+As a user curious about my own country, I would like to be able to view what my own country has that would be interesting for a local like me, so that I can visit those places of interests or do those activities during my free time, so that I can better understand my own country and be able to find the hidden gems located in my country.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
 These files should themselves either be included as a pdf file in the project itself (in an separate directory)
@@ -25,10 +25,15 @@ Include the Adobe XD wireframe as a folder. You can include the XD share url.
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+- The home page of our website displays a slideshow of the key attractions of the 3 countries our website will be featuring, with a short introduction about each country.
+- There will be a page dedicated just for the attractions of the 3 countries, with this page showing off more attractions and information about them.
+- There will be a FAQ page where the user may go to in order to find out the answers to their questions. If their question is not answered, there will be a form located at the bottom of the page for them to submit their question.
+- There will be a page where they can purchase small popular souveniers such as bookmarks and keychains with designs from their respective countries.
+- There will be a page featuring booking packages and deals the user can choose from, with various price ranges and hotel locations.
+- At the checkout page, it will list the various details about the user's hotel choice and the total price. They will then be brought to a page asking them for details for payment. They will also be given a unique code which can be inputted into the souveniers page to access a game portion where they can win different prizes depending on the difficulty and how well they performed.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
